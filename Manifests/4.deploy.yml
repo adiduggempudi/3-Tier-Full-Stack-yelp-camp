@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: yelp-camp-container
-          image: adinarayana25/testcamp:latest
+          image: adinarayana25/testcamp2:latest
           ports:
             - containerPort: 3000
 
